@@ -8,5 +8,7 @@ public class AtmApp {
         System.out.println("java is easy");
         //version 3
         System.out.println("java çok zor");
+
+        System.out.println("değişişlşdsai");
     }
 }
