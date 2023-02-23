@@ -10,5 +10,6 @@ public class AtmApp {
         System.out.println("java çok zor");
 
         System.out.println("değişişlşdsai");
+        System.out.println("ne alaka");
     }
 }
