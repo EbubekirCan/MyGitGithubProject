@@ -11,5 +11,6 @@ public class AtmApp {
 
         System.out.println("değişişlşdsai");
         System.out.println("ne alaka");
+        System.out.println("asdasf");
     }
 }
